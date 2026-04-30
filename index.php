@@ -49,7 +49,7 @@ echo ' estuda ';
 echo $aluno['curso'];
 
 //8
-echo '';
+echo 'mi bombo';
 
 
 ?>
